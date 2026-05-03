@@ -1,7 +1,7 @@
 DE Power Day-Ahead Forecast & Trade Recommendations
 ============================================================
 Forecast Date: 2026-04-26
-Generated:     2026-05-03 17:03
+Generated:     2026-05-03 17:09
 Parameters:    Entry threshold = 10 EUR/MWh, Error threshold = 30 EUR/MWh
 
 Trade Summary:
