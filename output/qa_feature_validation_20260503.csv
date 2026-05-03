@@ -1,0 +1,14 @@
+feature,completeness_pct,in_bounds_pct,actual_min,actual_max,expected_min,expected_max,status
+price_day_ahead_eur_mwh,100.0,100.0,-499.0,310.86,-1000.0,1000.0,OK
+load_forecast_mwh,100.0,100.0,38110.01,73830.99,15000.0,95000.0,OK
+residual_load_forecast_mwh,100.0,100.0,-29003.22,64529.47,-100000.0,100000.0,OK
+wind_onshore_forecast_mwh,100.0,100.0,315.79,46758.44,0.0,100000.0,OK
+wind_offshore_forecast_mwh,100.0,100.0,28.35,7344.19,0.0,100000.0,OK
+solar_forecast_mwh,100.0,100.0,0.0,56410.32,0.0,100000.0,OK
+wind_total_forecast_mwh,100.0,100.0,422.77000000000004,52330.94,0.0,100000.0,OK
+vre_forecast_mwh,100.0,100.0,1188.26,75722.19,0.0,500000.0,OK
+forecast_vre_share,100.0,100.0,0.02280298692147203,1.6370229118291248,0.0,3.0,OK
+forecast_wind_share,100.0,100.0,0.00678687305062214,1.1437492589534028,0.0,2.0,OK
+forecast_solar_share,100.0,100.0,0.0,1.0642963554917046,0.0,2.0,OK
+gas_henryhub_usd_mmbtu,89.2,100.0,2.54,30.72,0.0,100.0,WARNING
+brent_usd_bbl,90.0,100.0,61.08,138.21,0.0,500.0,WARNING

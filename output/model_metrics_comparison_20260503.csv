@@ -1,0 +1,11 @@
+Metric,Baseline,Improved,Delta
+Mean Absolute Error (EUR/MWh),21.14,20.949,-0.191
+Root Mean Squared Error (EUR/MWh),40.776,40.017,-0.759
+R-squared (explained variance),0.693,0.704,0.011
+Mean bias: model - actual (EUR/MWh),12.475,18.084,5.609
+Mean spread: actual - fair value (EUR/MWh),-12.475,-18.084,-5.609
+Spread standard deviation (EUR/MWh),38.857,35.731,-3.126
+MAE on peak prices (top 10%),14.266,15.33,1.064
+MAE on low prices (bottom 10%),72.884,72.434,-0.449
+Pearson correlation (actual vs predicted),0.882,0.891,0.009
+Training bias removed (EUR/MWh),0.0,0.0,0.0

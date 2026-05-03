@@ -1,0 +1,7 @@
+series,filter_id,region,status_code,ok,error
+price_day_ahead_eur_mwh,4169,DE-LU,200,True,
+load_forecast_mwh,411,DE,200,True,
+residual_load_forecast_mwh,4362,DE,200,True,
+wind_onshore_forecast_mwh,123,DE,200,True,
+wind_offshore_forecast_mwh,3791,DE,200,True,
+solar_forecast_mwh,125,DE,200,True,
